@@ -11,9 +11,9 @@ This app uses the OpenAi API to create a chat app with automatically generated r
   <li>4. Run npm run dev on both the client and server sides</li>
 
 ## Images
-<img src="./images/one.jpg">
-<img src-"./images/two.jpg">
-<img src-"./images/three.jpg">
+<img src="./images/one.png">
+<img src="./images/two.png">
+<img src="./images/three.png">
 
 ## Roadmap
 Update the CSS to give it a more user friendly feel. Deploy on Vercel or similar.
